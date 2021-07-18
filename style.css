@@ -1,0 +1,150 @@
+@charset "UTF-8";
+
+.link-color{
+    color: black;
+    opacity: 0.7;
+}
+
+#header{
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+}
+
+.wrapper {
+    width: 50%;
+    margin: 0 auto 100px auto;
+    padding: 0 4%;
+    text-align: center;
+}
+
+.profilebox{
+    width: 10%;
+    margin: auto;
+}
+
+.profilebox img{
+    width: 120px;
+    height: 60px;
+    margin: auto;
+}
+
+.navigation{
+    width: 10%;
+    margin: auto;
+    display: flex;
+    font-size: 14px;
+}
+
+ul{
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+}
+
+.placement{
+    margin-right : 30px;
+    justify-content:space-between;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    width: 100%;
+    margin: 0%;
+}
+
+#mainvisual {
+  margin-bottom: 80px;
+}
+
+#mainvisual img{
+    width: 100%;
+    max-width: 1920px;
+    height: 600px;
+    margin: 0%;
+    object-fit: cover;
+}
+
+#middle{
+    width: 100%;
+    height: 50%;
+}
+
+.Aboutimg{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50%;
+}
+
+.nameabout{
+    height: 60px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+    border-width:2px;
+    font-size: 2rem;
+}
+
+.line{
+    width: 100px;
+    text-decoration:　none;
+    border-bottom: solid 1px black;
+
+    
+}
+
+.Aboutimg img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 30px;
+
+}
+
+.text{
+    font-size: 14px;
+    opacity: 0.7;
+    margin: 0;
+}
+
+
+#bicicle{
+    width: 20%;
+}
+
+.namebicicle{
+    opacity: 0.7;
+    border-width:2px;
+    font-size: 32px;
+    margin: 70px;
+
+}
+
+.Threepieces{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+}
+
+Threepieces img{
+    width: 100%;
+}
+
+.title{
+    opacity: 0.7;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    font-size: 5px;
+}
+
